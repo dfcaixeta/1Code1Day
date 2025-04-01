@@ -17,3 +17,6 @@ for i in range(size):
 
 plt.title("Gráfico com Padrão Cruzado")
 plt.show()
+
+# EOF
+# source code --> clcoding.com
