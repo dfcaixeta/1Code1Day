@@ -1,5 +1,5 @@
 ''' Projeto OneCodeOneDay
-Fazendo uma tabuada com vários métodos
+Fazendo uma tabuada usando o método loop ... for ...
 Dia 01 - 05.fev.2025
 
 @utor: @pythonclcoding '''
