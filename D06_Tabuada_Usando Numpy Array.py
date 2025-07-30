@@ -1,5 +1,5 @@
 ''' Projeto OneCodeOneDay
-Fazendo uma tabuada com o método Numpy Array
+Fazendo uma tabuada com o método Numpy Array.
 Dia 06 - 04.mar.2025
 
 @utor: @pythonclcoding '''
