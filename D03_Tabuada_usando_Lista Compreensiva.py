@@ -4,7 +4,7 @@ Dia 03 - 04.mar.2025
 
 @utor: @pythonclcoding '''
 
-# Método 3. Tabuada usando o método de Lista Compreensiva (List Comprehension)
+# Método 3. Tabuada usando o método de Lista Compreensiva (List Comprehension).
 
 # Entrada/Input de dados
 num = int(input('Entre com um número: '))
