@@ -1,5 +1,5 @@
 ''' Projeto OneCodeOneDay
-Fazendo uma tabuada com vários métodos
+Fazendo uma tabuada com método recursivo.
 Dia 05 - 04.mar.2025
 
 @utor: @pythonclcoding '''
