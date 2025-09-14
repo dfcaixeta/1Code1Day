@@ -41,5 +41,4 @@ print()
  - Organiza o resultado como uma matriz transposta.
  - Imprime os valores da tabuada em formato limpo, um número por linha.
  '''
-
 # EOC
