@@ -39,6 +39,7 @@ print()
  - Recebe um número.
  - Gera a tabuada de 1 a 10 usando NumPy.
  - Organiza o resultado como uma matriz transposta.
- - Imprime os valores da tabuada em formato limpo, um número por linha.'''
+ - Imprime os valores da tabuada em formato limpo, um número por linha.
+ '''
 
 # EOC

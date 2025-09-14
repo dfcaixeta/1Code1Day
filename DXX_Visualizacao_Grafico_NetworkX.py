@@ -27,4 +27,11 @@ font_size = 12 --> Tamanho da fonte dos rótulos. '''
 # Plota o gráfico na tela
 plt.show() # Exibe o grafo em uma janela.
 
+
+'''
+Esse código é uma representação visual de um grafo não direcionado (sem setas), usado
+em áreas como análise de redes sociais, caminhos em grafos, mapas de conexões etc.
+
+'''
+
 # EOC
