@@ -1,6 +1,6 @@
 ''' Projeto OneCodeOneDay
 Fazendo um gráfico de barra usando a biblioteca Matplotlib
-Dia 09 - 05.mar.2025
+Dia 16 - 05.mar.2025
 
 @utor: @pythonclcoding '''
 

@@ -5,8 +5,8 @@ Dia 11 - 05.mar.2025
 
 @utor: @python.joy '''
 
-def count_func(data=None):
-#def count_func(data={}):
+#def count_func(data = None):
+def count_func(data = {}):
     if data is None:
         data = {}
     data['count'] = data.get('count', 0) + 1

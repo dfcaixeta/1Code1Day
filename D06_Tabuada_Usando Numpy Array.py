@@ -4,7 +4,7 @@ Dia 06 - 04.mar.2025
 
 @utor: @pythonclcoding '''
 
-# Método 6. Tabuada usando o método Numpy Array.
+# Método 6. Tabuada usando o Numpy Array
 ''' Esse código em Python utiliza a biblioteca NumPy para calcular e exibir a
 tabuada de um número fornecido pelo usuário, usando conceitos de arrays, 
 multiplicação vetorial e matriz transposta. '''

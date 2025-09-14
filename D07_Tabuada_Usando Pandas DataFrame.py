@@ -1,5 +1,5 @@
 ''' Projeto OneCodeOneDay
-Fazendo uma tabuada com vários métodos
+Fazendo uma tabuada com o método Pandas DataFrame
 Dia 07 - 04.mar.2025
 
 @utor: @pythonclcoding '''
@@ -9,13 +9,15 @@ Dia 07 - 04.mar.2025
 # Importando a biblioteca Numpy
 import pandas as pd
 
+# Entrada de dados (Input data)
 num = int(input("Entre com o número: "))
-multiplier = list(range(1, 11))
-
 print()
 
+# Preparando a lista de números para a multiplicação
+mult = list(range(1, 11))
+
 # Criando um DataFrame sem as especificações dos labels da coluna
-df = pd.DataFrame({num: [num * i for i in multiplier]})
+df = pd.DataFrame({num: [num * i for i in mult]})
 
 # Imprimindo o DataFrame sem os labels da coluna
 print(df.to_string(header=False, index=False))
