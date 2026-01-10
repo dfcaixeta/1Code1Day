@@ -16,8 +16,9 @@ i = 1 # Inicializa o contador.
 # Estrutura de repetição com while.
 while i <= 10:
     print(num, 'x', i, '=', (num * i))
-    i += 1
+    i += 1 # Incremento de mais 1.
 
-print()
+# Mensagem final de encerramento
+print("\nFim da tabuada!\n")
 
 # EOC
