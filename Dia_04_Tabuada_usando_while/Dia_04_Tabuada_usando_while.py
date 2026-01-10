@@ -11,7 +11,7 @@ Dia 04 - 10.jan.2026
 
 # Entrada/Input de dado
 num = int(input('Entre com um número: '))
-i = 1
+i = 1 # Inicializa o contador.
 
 # Estrutura de repetição com while.
 while i <= 10:
